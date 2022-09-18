@@ -1,2 +1,5 @@
-# java-calculator
-Java calculator project for studies
+
+# Java Calculator
+
+Java calculator project for college studies
+
